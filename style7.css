@@ -1,0 +1,37 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+
+}
+header{
+  width:100%;
+  height:400px;
+  background-image:url(img7/mv.jpg);
+  background-size: cover;
+  background-position:bottom;
+}
+
+.title{
+  color:gray;
+}
+
+.main{
+  width:840px;
+  margin:50px auto;
+  padding:50px 0px;
+}
+
+.content-box{
+  border-bottom:1px solid gray;
+}
+
+.service1{
+  padding-bottom:30px;
+}
+
+.service2{
+  padding-bottom:30px;
+  padding-top:30px;
+}
+
