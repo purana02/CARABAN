@@ -16,6 +16,21 @@ header{
   position:relative;
 }
 
+.social i{
+  display:inline-block;
+  margin-left:20px;
+}
+
+.social{
+  position:absolute;
+  top:22px;
+  right:22px;
+}
+
+header,nav,h2, .main-visual,footer{
+  font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif;
+}
+
 header .heading{
   font-size:32px;
 }
@@ -173,7 +188,7 @@ header .heading{
 }
 
 .instagram-box:nth-child(odd){
-  margin:0 10px 10px 0;
+  margin-right:10px;
 }
 
 .instagram-box:nth-child(1){
